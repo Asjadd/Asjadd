@@ -2,7 +2,7 @@
 
 
 
-![Developer](https://github.com/AsjadOooO/AsjadOooO/blob/main/jcole-new-york1.gif)
+![Developer](https://github.com/AsjadOooO/Asjadd/blob/main/jcole-new-york1.gif)
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 
 
@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 - 🔣Scientific calculator This is an Simple  scientific calculator go check it out :DD (still working on it) https://www.asjadowo.xyz/scientific%20calculator/
 - 🖥️Rainbow Recorder This is an simple screen recorder made using pythong (Rainbow Recorder) https://github.com/AsjadOwO/RainbowRecorder/releases/tag/RainbowRecorder
 - 🌧️ Zero-Attack Best hacking tools (Zero-Attack)  https://github.com/AsjadOwO/Zero-attacker
+- My both Main got flagged on total 146 and 100 stars maybe :c
 -->
 ##
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjadoooo&label=Profile%20views&color=0e75b6&style=flat" alt="asjadoooo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjadd&label=Profile%20views&color=0e75b6&style=flat" alt="asjadd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asjadoooo" alt="asjadoooo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asjadd" alt="asjadd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,12 +54,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsjadOooO&show_icons=true&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asjadd&show_icons=true&theme=gruvbox" />
 
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjadOooO&layout=compact&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadd&layout=compact&theme=tokyonight" />
 
 
 
