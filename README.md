@@ -6,7 +6,7 @@
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 
 
-Hai, im Asjad, on my free time i write some codes, atm in high school 
+Hai, im Asjad, on my free time i write some codes and learn it, atm doing A/As-levels
 I really enjoy learning different languages and making different projects
 thats all about me :D
 Here are some ideas to get you started:
