@@ -2,7 +2,7 @@
 
 
 
-![Developer](https://github.com/AsjadOooO/Asjadd/blob/main/jcole-new-york1.gif)
+![Developer](https://github.com/Asjadd/Asjadd/blob/main/jcole-new-york1.gif)
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 
 
