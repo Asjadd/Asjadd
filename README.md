@@ -1,9 +1,9 @@
-### Hi there 👋, I'm AsjadOwO
+### Hi there 👋, I'm Asjad
 
 
 
 ![Developer](https://github.com/Asjadd/Asjadd/blob/main/jcole-new-york1.gif)
-![DISCORD](https://discord.c99.nl/widget/theme-5/439728998809862154.png)
+![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 
 
 Hai, im Asjad, on my free time i write some codes, atm in high school 
